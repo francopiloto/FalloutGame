@@ -10,5 +10,5 @@ A clone of the password-breaking game featured in the **Fallout 4** video game.
 
 ## Screenshots
 
-<img src = "">
+<img src = "demo.gif">
 
