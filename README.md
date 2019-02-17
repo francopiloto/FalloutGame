@@ -6,9 +6,10 @@ A clone of the password-breaking game featured in the **Fallout 4** video game.
 
 * PHP
 * Javascript
+* CSS
 
 
-## Screenshots
+## Demo
 
 <img src = "demo.gif">
 
